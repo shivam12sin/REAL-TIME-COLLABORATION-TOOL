@@ -2,15 +2,13 @@
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: Prajyot Prakash Deshpande
+**NAME**: Shivam singh
 
-**INTERN ID**: CT08JIT
+**INTERN ID**: CT04DZ2310
 
-**DOMAIN**: FULL STACK WEB DEVELOPMENT
+**DOMAIN**: Mern Stack Web Development
 
-**BATCH DURATION**: JANUARY 5th,2025 to FEBRUARY 5th, 2025
-
-**MENTOR NAME** : NEELA SANTHOSH KUMAR
+**BATCH DURATION**: from August 2nd, 2025 to September 2nd, 2025.
 
 # DESCRIPTION OF TASK PERFORMED :
 As a task of CODTECH internship, I built a Real-time collaborative code editor.I have created a real-time collaborative document editor using React.js for a dynamic and responsive user interface, MongoDB for efficient data storage, and Node.js as the backend framework. Download button is also provided , if the user needs to download the file in .txt format.The system allows multiple users to join the same editing session, working collaboratively on a shared document. Using WebSocket communication, I have implemented real-time updates so any changes made by one user are immediately reflected for all other participants in the same room. Routes are handled in the backend using Node.js and Express.js, with API endpoints for creating, retrieving, and managing collaborative sessions. A central MongoDB database stores document data and user activity logs, ensuring that edits are preserved even if users leave and rejoin the session. I have designed the front end in React.js, efficiently handling the application, such as tracking users in a room or managing document content updates in real time. The backend is designed using Node.js, with an event-driven architecture to handle simultaneous requests and WebSocket connections. To ensure simultaneous changes are synchronized across users. The editor will also feature room-based collaboration, where users can create or join rooms identified by unique IDs, and only users within the same room can view and edit the document. Additionally, the interface will include essential text downloading button which will act as option for document saving. Error handling is implemented for monitoring the application. The ultimate goal is to create a robust, scalable, and user-friendly collaborative editing platform that combines real-time functionality, smooth UI interactions, and secure backend services.
